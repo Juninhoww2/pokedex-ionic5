@@ -1,0 +1,7 @@
+{
+  "name": "pokeapiapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
